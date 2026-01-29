@@ -68,7 +68,9 @@ Students receive nine unlabelled quotes from contemporary political figures. The
 
 The reveal creates a second rupture: the rhetoric that sounded alarming (or appealing) belongs to current leaders with millions of followers. Fascism isn't history. The encounter is now.
 
-Three quotes are deliberate outliers (Clinton, Biden, Robinson): violent and imperial but not fascist. Students will be confused. **That confusion is the setup for Day 3**, when Eco's 14 Points provide a diagnostic tool that distinguishes "fascist" from "harmful." Without experiencing the need for that tool, students receive it as trivia rather than necessity.
+Three quotes come from figures students likely consider "normal" politicians (Clinton, Biden, Robinson). Many students will assume these don't belong with Orbán and Trump. **That assumption is the trap.** When we apply Eco's framework on Day 3, students discover these quotes fit too: Clinton's gleeful "we came, we saw, he died" (cult of action, contempt for the weak, machismo); Biden's casual reference to killing 22 million people (permanent warfare, selective populism); Robinson's "nothing on it" (fear of difference, cult of tradition, selective populism that defines Indigenous people out of "the people").
+
+The real question becomes: *Why did we want to believe they were different?* 
 
 ---
 
